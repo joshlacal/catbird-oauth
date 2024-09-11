@@ -1,5 +1,5 @@
 {
-    "client_id": "https://yourapp.com/oauth/client-metadata.json",
+    "client_id": "https://raw.githubusercontent.com/joshlacal/catbird-oauth/main/client-metadata.json",
     "application_type": "native",
     "client_name": "Catbird",
     "client_uri": "https://yourapp.com",
