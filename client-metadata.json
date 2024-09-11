@@ -2,7 +2,7 @@
     "client_id": "https://raw.githubusercontent.com/joshlacal/catbird-oauth/main/client-metadata.json",
     "application_type": "native",
     "client_name": "Catbird",
-    "client_uri": "https://yourapp.com",
+    "client_uri": "https://catbird.joshlacalamito.com",
     "logo_uri": "https://yourapp.com/logo.png",
     "redirect_uris": [
       "catbird://callback"
