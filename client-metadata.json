@@ -1,0 +1,21 @@
+{
+    "client_id": "https://yourapp.com/oauth/client-metadata.json",
+    "application_type": "native",
+    "client_name": "Catbird",
+    "client_uri": "https://yourapp.com",
+    "logo_uri": "https://yourapp.com/logo.png",
+    "redirect_uris": [
+      "catbird://callback"
+    ],
+    "grant_types": [
+      "authorization_code",
+      "refresh_token"
+    ],
+    "response_types": [
+      "code"
+    ],
+    "scope": "atproto",
+    "dpop_bound_access_tokens": true,
+    "token_endpoint_auth_method": "none"
+  }
+  
